@@ -124,6 +124,13 @@ Content-Type: application/json
 }
 ```
 
+## Admin UI
+
+Here’s a preview of the DropLater Admin interface:
+
+![DropLater Admin UI](droplater_admin_ui.jpg)
+
+
 #### List Notes
 ```bash
 GET /api/notes?status=pending&page=1
